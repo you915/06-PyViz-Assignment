@@ -136,6 +136,21 @@ Sample Dashboard:
 
 ---
 
+# How to run and use my dashboard
+
+## My Dashboard has 5 different tabs
+
+## After running dashboard.servable(), you will see my dashboard with 5 tabs
+
+### 1st tab : Welcome - Neighbourhood map will be shown that shows the average house value in Toronto
+### 2nd tab : Yearly Market Analysis - Dwelling types in various years in Toronto
+### 3rd tab : Shelter Costs Vs. House Value - Plot of average monthly shelter cost for owned/rented and house value in toronto are available
+### 4th tab : Neighbourhood Analysis - Average value by neighbourhood, number dwelling types, and Average House Values in Toronto per Neighbourhood graphs are available
+### 5th tab : Top Expensive Neighbourhoods - Top 10 expensive neighbourhoods in Toronto and sunburst chart are available
+
+
+
+
 ### Submission
 
 * Create separate notebooks for the analysis and the dashboard and upload these to Github.
