@@ -1,4 +1,4 @@
-# Unit 6 - Pythonic Monopoly
+# Real-Estate-Investment-Dashboard
 
 ![Toronto at night](Images/toronto.jpg)
 
@@ -33,8 +33,6 @@ The data provided for this homework was retrieved from the following websites:
 * [Rental Analysis Starter Jupyter Notebook](Starter_Code/rental_analysis.ipynb)
 
 * [Dashboard Starter Jupyter Notebook](Starter_Code/dashboard.ipynb)
-
-## Instructions
 
 ### Rental Analysis
 
@@ -114,13 +112,13 @@ Plotly express offers a broad selection of interactive plots. In this optional c
 
 1. Create a bar chart row facet to plot the average house values for all Toronto neighbourhoods per year. (+ 5 pts)
 
-    **Hint:** You can learn more about facet plots in Plotly Express in [this link](https://plotly.com/python/facet-plots/).
+    You can learn more about facet plots in Plotly Express in [this link](https://plotly.com/python/facet-plots/).
 
    ![bar_chart_row](Images/bar_chart_row.png)
 
 2. Create a sunburst chart to conduct a cost analysis of the most expensive neighbourhoods in Toronto per year. (+ 5 pts)
 
-    **Hint:** You can learn more about sunburst charts in Plotly Express in [this link](https://plotly.com/python/sunburst-charts/).
+    You can learn more about sunburst charts in Plotly Express in [this link](https://plotly.com/python/sunburst-charts/).
 
     ![sunburst](Images/sunburst.png)
 
@@ -147,20 +145,5 @@ Sample Dashboard:
 ### 3rd tab : Shelter Costs Vs. House Value - Plot of average monthly shelter cost for owned/rented and house value in toronto are available
 ### 4th tab : Neighbourhood Analysis - Average value by neighbourhood, number dwelling types, and Average House Values in Toronto per Neighbourhood graphs are available
 ### 5th tab : Top Expensive Neighbourhoods - Top 10 expensive neighbourhoods in Toronto and sunburst chart are available
-
-
-
-
-### Submission
-
-* Create separate notebooks for the analysis and the dashboard and upload these to Github.
-
-* Write a README file to explain how to run and use your dashboard.
-
-* Submit the Github URL repository to Bootcampspot.
-
-* **Important Note:** You should not submit your Mapbox access token to Github!
-
----
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
